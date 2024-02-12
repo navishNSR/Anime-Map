@@ -38,4 +38,4 @@ Implementing few more features so that AniMap Radio can become a streaming platf
 
 
 
-## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/starlightknown" >Karuna Tata </a>,<a href ="https://github.com/vinzvinci" >Vincent Villafuerte</a> and <a href ="https://github.com/D-zero-7" >Dheeraj </a> 
+## Build with ❤ by <a href ="https://github.com/rajivranjanmars" >Rajiv Ranjan </a> , <a href ="https://github.com/starlightknown" >Navish Kumar </a>,<a href ="https://github.com/navishNSR" >Vincent Villafuerte</a> and <a href ="https://github.com/D-zero-7" >Dheeraj </a> 
